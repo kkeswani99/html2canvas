@@ -1,6 +1,6 @@
 {
-  "title": "@kkeswani99/html2canvas",
-  "name": "@kkeswani99/html2canvas",
+  "title": "@karankeswani99/html2canvas",
+  "name": "@karankeswani/html2canvas",
   "description": "Screenshots with JavaScript with Trusted Type fix",
   "main": "dist/html2canvas.js",
   "module": "dist/html2canvas.esm.js",
